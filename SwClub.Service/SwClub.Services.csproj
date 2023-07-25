@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.32.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SwClub.Common\SwClub.Common.csproj" />
+    <ProjectReference Include="..\SwClub.DataAccess\SwClub.DataAccess.csproj" />
+    <ProjectReference Include="..\SwClub.DataTransferObjects\SwClub.DataTransferObjects.csproj" />
+    <ProjectReference Include="..\SwClub.Entities\SwClub.Entities.csproj" />
+    <ProjectReference Include="..\SwClub.Repositories\SwClub.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Common\obj\Debug\net6.0\SwClub.Common.csproj.AssemblyReference.cache
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Common\obj\Debug\net6.0\SwClub.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Common\obj\Debug\net6.0\SwClub.Common.AssemblyInfoInputs.cache
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Common\obj\Debug\net6.0\SwClub.Common.AssemblyInfo.cs
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Common\obj\Debug\net6.0\SwClub.Common.csproj.CoreCompileInputs.cache
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Common\bin\Debug\net6.0\SwClub.Common.deps.json
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Common\bin\Debug\net6.0\SwClub.Common.dll
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Common\bin\Debug\net6.0\SwClub.Common.pdb
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Common\obj\Debug\net6.0\SwClub.Common.dll
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Common\obj\Debug\net6.0\refint\SwClub.Common.dll
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Common\obj\Debug\net6.0\SwClub.Common.pdb
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Common\obj\Debug\net6.0\ref\SwClub.Common.dll

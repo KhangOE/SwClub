@@ -1,0 +1,15 @@
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\bin\Debug\net6.0\SwClub.Entities.deps.json
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\bin\Debug\net6.0\SwClub.Entities.dll
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\bin\Debug\net6.0\SwClub.Entities.pdb
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\obj\Debug\net6.0\SwClub.Entities.csproj.AssemblyReference.cache
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\obj\Debug\net6.0\SwClub.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\obj\Debug\net6.0\SwClub.Entities.AssemblyInfoInputs.cache
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\obj\Debug\net6.0\SwClub.Entities.AssemblyInfo.cs
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\obj\Debug\net6.0\SwClub.Entities.csproj.CoreCompileInputs.cache
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\obj\Debug\net6.0\SwClub.Entities.dll
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\obj\Debug\net6.0\refint\SwClub.Entities.dll
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\obj\Debug\net6.0\SwClub.Entities.pdb
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\obj\Debug\net6.0\ref\SwClub.Entities.dll
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\bin\Debug\net6.0\SwClub.Common.dll
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\bin\Debug\net6.0\SwClub.Common.pdb
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.Entities\obj\Debug\net6.0\SwClub.Entities.csproj.CopyComplete

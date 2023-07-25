@@ -1,0 +1,307 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Repositories\\SwClub.Repositories.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Common\\SwClub.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Common\\SwClub.Common.csproj",
+        "projectName": "SwClub.Common",
+        "projectPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Common\\SwClub.Common.csproj",
+        "packagesPath": "C:\\Users\\khang221\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\khang221\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.DataAccess\\SwClub.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.DataAccess\\SwClub.DataAccess.csproj",
+        "projectName": "SwClub.DataAccess",
+        "projectPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.DataAccess\\SwClub.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\khang221\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\khang221\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Common\\SwClub.Common.csproj": {
+                "projectPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Common\\SwClub.Common.csproj"
+              },
+              "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Entities\\SwClub.Entities.csproj": {
+                "projectPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Entities\\SwClub.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Entities\\SwClub.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Entities\\SwClub.Entities.csproj",
+        "projectName": "SwClub.Entities",
+        "projectPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Entities\\SwClub.Entities.csproj",
+        "packagesPath": "C:\\Users\\khang221\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\khang221\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Common\\SwClub.Common.csproj": {
+                "projectPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Common\\SwClub.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Repositories\\SwClub.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Repositories\\SwClub.Repositories.csproj",
+        "projectName": "SwClub.Repositories",
+        "projectPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Repositories\\SwClub.Repositories.csproj",
+        "packagesPath": "C:\\Users\\khang221\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\khang221\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Common\\SwClub.Common.csproj": {
+                "projectPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Common\\SwClub.Common.csproj"
+              },
+              "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.DataAccess\\SwClub.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.DataAccess\\SwClub.DataAccess.csproj"
+              },
+              "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Entities\\SwClub.Entities.csproj": {
+                "projectPath": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub.Entities\\SwClub.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\obj\Debug\net6.0\SwClub.DataTransferObjects.csproj.AssemblyReference.cache
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\obj\Debug\net6.0\SwClub.DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\obj\Debug\net6.0\SwClub.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\obj\Debug\net6.0\SwClub.DataTransferObjects.AssemblyInfo.cs
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\obj\Debug\net6.0\SwClub.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\bin\Debug\net6.0\SwClub.DataTransferObjects.deps.json
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\bin\Debug\net6.0\SwClub.DataTransferObjects.dll
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\bin\Debug\net6.0\SwClub.DataTransferObjects.pdb
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\bin\Debug\net6.0\SwClub.Common.dll
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\bin\Debug\net6.0\SwClub.Common.pdb
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\obj\Debug\net6.0\SwClub.DataTransferObjects.csproj.CopyComplete
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\obj\Debug\net6.0\SwClub.DataTransferObjects.dll
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\obj\Debug\net6.0\refint\SwClub.DataTransferObjects.dll
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\obj\Debug\net6.0\SwClub.DataTransferObjects.pdb
+C:\Users\khang221\Desktop\swimmingClub\SwClub\SwClub.DataTransferObjects\obj\Debug\net6.0\ref\SwClub.DataTransferObjects.dll

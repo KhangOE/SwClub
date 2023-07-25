@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "3N37Kn7oPgG+uA1Nw4hK2kF4uZZedMkGPl+zG8p0hpw=",
+  "Source": "SwClub.Api",
+  "BasePath": "_content/SwClub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SwClub.Api\\wwwroot",
+      "Source": "SwClub.Api",
+      "ContentRoot": "C:\\Users\\khang221\\Desktop\\swimmingClub\\SwClub\\SwClub\\wwwroot\\",
+      "BasePath": "_content/SwClub.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
